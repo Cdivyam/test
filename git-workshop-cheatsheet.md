@@ -87,6 +87,11 @@ git checkout -b <branch_name>
 
 
 Rahul Singh
+Raja Raj Chola
+
 Pratik Bhatt
 
 Sanyuktha Udyavar
+
+Dhruti Seksaria
+
