@@ -42,7 +42,10 @@ git checkout -b <branch_name>
 1. ## 2 methods to write code/monospace characters (italic)
 
 2. ## To initialize Git Repo (strike-out)
-
+```
+git init
+```
+~~---\*Task Completed By Divyam\*---~~
 3. ## To stage new changes (bold + italic)
 
 4. ## To commit new changes (underline)
