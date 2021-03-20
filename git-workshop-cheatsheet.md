@@ -37,6 +37,7 @@ git checkout -b <branch_name>
 > `---*Task Completed by Divyam*---`
 
 ## Character To Escape a character in markdown (bold and link to `https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet`)
+**Escape character is backslash: \\**
 **Task for ACM**
 
 1. ## 2 methods to write code/monospace characters (italic)
