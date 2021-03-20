@@ -40,6 +40,11 @@ git checkout -b <branch_name>
 **Task for ACM**
 
 1. ## 2 methods to write code/monospace characters (italic)
+   ```python
+s = "Python syntax highlighting"
+print s
+```
+*\*Task by Sanyuktha\**
 
 2. ## To initialize Git Repo (strike-out)
 
@@ -53,9 +58,11 @@ git checkout -b <branch_name>
 
 7. ## To View all branches, on remote as well as on local (Each word as a ordered list)
 
+
+
 8. ## To pull from a branch (Each word as a unordered list)
 
-9. ## Above command is a combination of which 2 repositories. (Each word as column in a table, heading will be name of 4 technologies)
+9.  ## Above command is a combination of which 2 repositories. (Each word as column in a table, heading will be name of 4 technologies)
 
 10. ## AddWhiteSPACE HERE (italic+underline)
 
