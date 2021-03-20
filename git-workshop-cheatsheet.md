@@ -74,6 +74,7 @@ git init
 15. ## Insert an image of Linus Torvalds (link to git website)
 
 16. ## Insert a link to tcetmumbai.in (Each word as a checkbox only name ticked)
+<a href="https://tcetmumbai.in">Click here</a>
 
 17. ## Insert JoJo meme (Name will be Dio)
 
