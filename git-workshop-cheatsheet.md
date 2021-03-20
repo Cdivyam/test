@@ -84,5 +84,3 @@ git checkout -b <branch_name>
 Pratik Bhatt
 
 Sanyuktha Udyavar
-
-Khushbu
