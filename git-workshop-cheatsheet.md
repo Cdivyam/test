@@ -22,7 +22,7 @@ git push -u origin main
 ```
 # Tasks 
 - Complete the task add the message- `---*Task Completed by <your_name>*---` in the format given in the brackets.
-- Add the above message below the.
+- Add the above message below the .
 - Example:
 
 ## Command for Git clone (block-quote + italic)
@@ -37,7 +37,6 @@ git checkout -b <branch_name>
 > `---*Task Completed by Divyam*---`
 
 ## Character To Escape a character in markdown (bold and link to `https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet`)
-**Escape character is backslash: \\**
 **Task for ACM**
 
 1. ## 2 methods to write code/monospace characters (italic)
@@ -48,10 +47,7 @@ print s
 *\*Task by Sanyuktha\**
 
 2. ## To initialize Git Repo (strike-out)
-```
-git init
-```
-~~---\*Task Completed By Divyam\*---~~
+
 3. ## To stage new changes (bold + italic)
 
 4. ## To commit new changes (underline)
@@ -77,6 +73,7 @@ git init
 13. ## Insert an image (Each word as a checkbox all ticked)
 
 14. ## Insert a Deep Learning Meme (link to deeplearning.ai + bold)
+<a href="https://deeplearning.ai"><img src="images/deeplearningmeme.jpeg" width="300"></a>
 
 15. ## Insert an image of Linus Torvalds (link to git website)
 
@@ -93,14 +90,34 @@ git init
 
 21. ## Add your Name with your github profile links in README.md
 
-Raja Raj Chola
 
-Pratik Bhatt
 
-Sanyuktha Udyavar
 
-Dhruti Seksaria
 
-Rahul Jha
 
-Mihir 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Resolving Conflicts
+
+ 
+
+
+
