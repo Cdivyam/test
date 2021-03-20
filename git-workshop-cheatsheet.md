@@ -22,7 +22,7 @@ git push -u origin main
 ```
 # Tasks 
 - Complete the task add the message- `---*Task Completed by <your_name>*---` in the format given in the brackets.
-- Add the above message below the .
+- Add the above message below the.
 - Example:
 
 ## Command for Git clone (block-quote + italic)
@@ -37,12 +37,16 @@ git checkout -b <branch_name>
 > `---*Task Completed by Divyam*---`
 
 ## Character To Escape a character in markdown (bold and link to `https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet`)
+**Escape character is backslash: \\**
 **Task for ACM**
 
 1. ## 2 methods to write code/monospace characters (italic)
 
 2. ## To initialize Git Repo (strike-out)
-
+```
+git init
+```
+~~---\*Task Completed By Divyam\*---~~
 3. ## To stage new changes (bold + italic)
 
 4. ## To commit new changes (underline)
@@ -70,6 +74,7 @@ git checkout -b <branch_name>
 15. ## Insert an image of Linus Torvalds (link to git website)
 
 16. ## Insert a link to tcetmumbai.in (Each word as a checkbox only name ticked)
+<a href="https://tcetmumbai.in">Click here</a>
 
 17. ## Insert JoJo meme (Name will be Dio)
 
@@ -81,30 +86,14 @@ git checkout -b <branch_name>
 
 21. ## Add your Name with your github profile links in README.md
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-hello there
-=======
 Raja Raj Chola
->>>>>>> a31e2c04ae9f24b27f4ae728e1663b503383b0f5
-=======
+
 Pratik Bhatt
 
 Sanyuktha Udyavar
->>>>>>> 0882c2c3d7083c2f6e2141bb24ede379d9ae39e6
+
+Dhruti Seksaria
+
+Rahul Jha
+
+Mihir 
