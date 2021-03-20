@@ -45,6 +45,7 @@ git checkout -b <branch_name>
 s = "Python syntax highlighting"
 print s
 ```
+*\*Task by Sanyuktha\**
 
 2. ## To initialize Git Repo (strike-out)
 ```
