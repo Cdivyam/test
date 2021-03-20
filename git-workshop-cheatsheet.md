@@ -22,7 +22,7 @@ git push -u origin main
 ```
 # Tasks 
 - Complete the task add the message- `---*Task Completed by <your_name>*---` in the format given in the brackets.
-- Add the above message below the .
+- Add the above message below the.
 - Example:
 
 ## Command for Git clone (block-quote + italic)
