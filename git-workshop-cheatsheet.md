@@ -81,6 +81,7 @@ git checkout -b <branch_name>
 
 21. ## Add your Name with your github profile links in README.md
 
+<<<<<<< HEAD
 
 
 
@@ -98,3 +99,8 @@ git checkout -b <branch_name>
 
 
 hello there
+=======
+Pratik Bhatt
+
+Sanyuktha Udyavar
+>>>>>>> 0882c2c3d7083c2f6e2141bb24ede379d9ae39e6
