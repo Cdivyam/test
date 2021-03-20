@@ -70,8 +70,7 @@ git init
 13. ## Insert an image (Each word as a checkbox all ticked)
 
 14. ## Insert a Deep Learning Meme (link to deeplearning.ai + bold)
-<img src="images/deeplearningmeme.jpeg" width="300">
-<a href="https://deeplearning.ai">**Deep Learning Website**</a>
+<a href="https://deeplearning.ai"><img src="images/deeplearningmeme.jpeg" width="300"></a>
 
 15. ## Insert an image of Linus Torvalds (link to git website)
 
